@@ -2,13 +2,6 @@
 
 My goal for this project is to create a web application that visualizes US Police shoottings (2015 to 2020) in a way tha is dynamic and interactive with Dash from Plotly.
 
-# Steps Taken
-us_police_shootings_dash_app.py is the main working file that does the following:
-  thas the Scatter Geo visualization that also used the Geocod
-
-
-
-
 Below are the following steps to achieve this outcome:
 
 # Achieved Goals
