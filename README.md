@@ -1,6 +1,6 @@
 # plotly_dash_project
 
-My goal for this project is to create a web application that visualizes US Police shoottings (2015 to 2020) in a way tha is dynamic and interactive with Dash from Plotly.
+My goal for this project is to create a web application that visualizes US Police shoottings (2015 to 2020) in a way that is dynamic and interactive with Dash from Plotly.
 
 Below are the following steps to achieve this outcome:
 
