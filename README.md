@@ -1,4 +1,4 @@
-# plotly_dash_project
+# Plotly Dash | Geospatial distribution of US police shootings
 
 My goal for this project is to create a web application that visualizes US Police shoottings (2015 to 2020) in a way that is dynamic and interactive with Dash from Plotly.
 
